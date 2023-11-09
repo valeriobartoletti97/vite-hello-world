@@ -16,5 +16,9 @@
 </script>
 
 <style lang="scss" scoped>
-
+    h1{
+        text-align:center;
+        color:green;
+        font-size: 2em;
+    }
 </style>

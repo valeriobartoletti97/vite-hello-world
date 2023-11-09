@@ -9,7 +9,7 @@
         name:'AppTitle',
         data(){
            return{
-            title: 'Hello World'
+            title: 'La mia prima app con Vite'
            }
         }
     }
